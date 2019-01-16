@@ -12,7 +12,7 @@
 /* Example: /\/\\//QdlS\\\/abc.TXT     -->  /QDLS/ABC.TXT           */
 /*          /\/\/QOpenSys\\\/abc.Txt   -->  /QOpenSys/abc.Txt       */
 /*                                                                  */
-/* QOpenSys is case-sensitive, QDLS is not.   ..    .               */
+/* QOpenSys is case-sensitive, QDLS is not.   ..  . .               */
 /*                                                                  */
 /********************************************************************/
 
